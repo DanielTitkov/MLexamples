@@ -1,3 +1,3 @@
 # MLexamples
 
-- [News clustering with KMeans (Russian)](/News clustering with KMeans)
+- [News clustering with KMeans](News_clustering_KMeans/)
